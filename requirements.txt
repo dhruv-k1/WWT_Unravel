@@ -1,0 +1,8 @@
+# Minimal tested set; pin as needed for your environment
+numpy>=1.23
+pandas>=1.5
+scipy>=1.9
+scikit-learn>=1.2
+torch>=2.0
+catboost>=1.2
+joblib>=1.2
