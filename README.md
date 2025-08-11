@@ -14,7 +14,7 @@ The notebook includes a **5% group hold-out** (by `CUSTOMER_ID`) to report **Rec
 - `sasrec_catboost_recommendations.csv` — test predictions (written on run)
 
 ## Data Assumptions
-Place these four CSVs under `DATA_DIR` (default: `/kaggle/input/wwtsets`):
+Place these four CSVs under `DATA_DIR` (default: `/datasets`):
 - `order_data.csv`
 - `customer_data.csv`
 - `store_data.csv`
